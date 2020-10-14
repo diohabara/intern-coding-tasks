@@ -36,10 +36,6 @@ When solving the coding task and the survey task, please follow the first choice
 If you want to change your first choice, please let us know your new first choice when you submit your solutions.
 In this case, please solve the coding and survey task based on the changed first choice theme.
 
-### Inquiry
-
-If you have any questions on this problem description, please contact us at intern2020-admin@preferred.jp. An updated version will be shared with all applicants if any change is made. Note that we cannot comment on the approach or give hints to the solution.
-
 ### Changelog
 
 - Apr 24th, 2020 : Initial version
